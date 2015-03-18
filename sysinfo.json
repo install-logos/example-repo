@@ -1,4 +1,4 @@
 {
-	"wallpaper.image":"~/.example/",
-	"extraconfig.conf":"~/.example/conf/"
+	"wallpaper.image":"~/.example-repo/",
+	"extraconfig.conf":"~/.example-repo/conf/"
 }
