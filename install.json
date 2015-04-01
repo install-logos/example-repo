@@ -1,4 +1,11 @@
 {
-	"wallpaper.image":"~/.example-repo/",
-	"extraconfig.conf":"~/.example-repo/conf/"
+	"files":{
+	"wallpaper.image":"./",
+	"extraconfig.conf":"./",
+	"file1.conf":"./",
+	"file2.conf":"./",
+	"file3.conf":"./"
+	},
+	"conf_root":"~/.i3/"
+	
 }
