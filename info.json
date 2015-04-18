@@ -1,0 +1,9 @@
+{
+	"name":"goodrice",
+	"program":"i3",
+	"description":"A most excellent rice for i3",
+	"cover":"https://i.imgur.com/RC9T6BT.png",
+	"author":"Le Anon",
+    "upstream":"https://github.com/install-logos/example-repo/archive/master.zip",
+	"version":"v0.1.0"
+}
