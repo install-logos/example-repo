@@ -1,9 +1,18 @@
 {
-	"files":{
-	"file1.conf":"./",
-	"file2.conf":"./",
-	"file3.conf":"./"
-	},
+	"files":[
+	  {
+		"filename": "file1.conf",
+		"location": "./"
+	  },
+	  {
+		"filename": "file2.conf",
+		"location": "./"
+	  },
+	  {
+		"filename": "file3.conf",
+		"location": "./"
+	  }
+	],
 	"conf_root":"~/.i3/"
 	
 }
